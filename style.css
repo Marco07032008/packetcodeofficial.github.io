@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 2;
+}
+body{
+    background-image: url(Petulla.jpeg);  
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif
+}
